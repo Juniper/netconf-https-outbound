@@ -7,5 +7,4 @@ See [Netconf over Outbound HTTPS doc](https://www.juniper.net/documentation/en_U
 # Contact Information
 For any queries, please contact<br/>
 kaustu@juniper.net<br/>
-sahitya@juniper.net<br/>
 ramtsb@juniper.net<br/>
